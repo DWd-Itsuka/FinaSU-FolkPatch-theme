@@ -1,2 +1,2 @@
 # FinaSu-FolkPatch-theme
-Simple theme FinaSU and FolkPatch by @DWd Itsuka
+A simple theme FinaSU and FolkPatch Silver Wolf by @DWd Itsuka. This theme uses only dark mode! ... don't expect more, everything will be beautiful if you enjoy it 😆😋🙃
