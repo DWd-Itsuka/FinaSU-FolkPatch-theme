@@ -1,2 +1,2 @@
 # FinaSu-FolkPatch-theme
-Simple theme FolkPatch and FinaSU by @DWd Itsuka
+Simple theme FinaSU and FolkPatch by @DWd Itsuka
